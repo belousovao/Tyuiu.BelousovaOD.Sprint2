@@ -20,7 +20,7 @@ namespace Tyuiu.BelousovaOD.Sprint2.Task5.V6.Lib
                     res = "бубен";
                     break;
                 case 4:
-                    res = "черви";
+                    res = "червы";
                     break;
                 default:
                     throw new ArgumentException($"Масть должна быть от 1 до 4. Значение {value1}");

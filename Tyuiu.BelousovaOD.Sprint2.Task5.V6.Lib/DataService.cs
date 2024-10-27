@@ -11,7 +11,7 @@ namespace Tyuiu.BelousovaOD.Sprint2.Task5.V6.Lib
             switch (value1)
             {
                 case 1:
-                    res = "пики";
+                    res = "пик";
                     break;
                 case 2:
                     res = "трефы";

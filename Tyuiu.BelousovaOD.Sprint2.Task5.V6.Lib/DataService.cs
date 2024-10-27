@@ -47,7 +47,7 @@ namespace Tyuiu.BelousovaOD.Sprint2.Task5.V6.Lib
                     str = "Валет";
                     break;
                 case 12:
-                    str = "Дама";
+                    str = "дама";
                     break;
                 case 13:
                     str = "Король";
